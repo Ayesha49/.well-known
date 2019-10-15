@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ayesha.cv.base",
+    "sha256_cert_fingerprints":
+    ["7F:13:13:F3:B1:34:D0:B8:34:57:5B:77:B9:CC:03:17:A2:E3:2D:51:32:0E:C7:6F:60:84:D2:08:5B:6A:C9:CF"]
+  }
+}]
